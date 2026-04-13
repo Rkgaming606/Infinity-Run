@@ -47,7 +47,9 @@ It is designed for:
 
 ## 📸 Screenshots
 
-(screenshot.png)
+(
+
+![Game Screenshot](screenshot.png))
 
 
 
