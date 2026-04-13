@@ -16,3 +16,24 @@ Beginner-friendly code 👨‍💻
 Open the game in your browser
 Follow on-screen instructions
 Enjoy the game 😄
+![Game Screenshot](screenshot.png)
+
+
+🛠️ Tech Used
+HTML
+CSS
+JavaScript
+
+🌟 Future Updates
+More games add karna
+Better UI/UX
+Mobile optimization
+🙌 Support
+
+Agar tumhe project pasand aaye:
+⭐ Star kar do repo ko
+🔗 Share with friends
+
+👨‍💻 Author
+
+Made by Rkgaming
